@@ -2,7 +2,13 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F724E5&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Passionate+Learner;Creative+Problem+Solver)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bryan%20Fernandez&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white)
+
+</div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F724E5&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Passionate+Learner;Creative+Problem+Solver;Open+Source+Enthusiast)
 
 </div>
 
@@ -10,14 +16,26 @@
   <img src="https://github.com/bryanfernandez-eng/bryanfernandez-eng/blob/main/img/dev-animation.gif?raw=true" alt="Coding animation" width="400">
 </div>
 
-💻 Currently exploring **Systems Programming, AI / Machine Learning / Web Dev / Anything fun!**  
-🎯 My goal is to **build cool projects that push my limits and help others learn**  
-🌱 Learning something new every day and sharing my journey
+<div align="center">
+  <p>💻 Currently exploring <b>Systems Programming, AI / Machine Learning / Web Dev / Anything fun!</b></p>
+  <p>🎯 My goal is to <b>build cool projects that push my limits and help others learn</b></p>
+  <p>🌱 Learning something new every day and sharing my journey</p>
+  <p>🔭 Working on innovative solutions to real-world problems</p>
+</div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/bryanfernandez">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</div>
 
 ---
 
 ## <div align="center">🚀 Tech Stack</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
 
 <div align="center">
 
@@ -30,15 +48,23 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 </div>
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
+</div>
 
 ---
 
 ## <div align="center">🛠️ Tools & DevOps</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7ii/giphy.gif" alt="DevOps" width="300">
+</div>
 
 <div align="center">
 
@@ -48,6 +74,9 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -57,19 +86,40 @@
 
 ---
 
-## <div align="center">📈 GitHub Stats</div>
+## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bryanfernandez-eng&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="100%" alt="Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=bryanfernandez-eng&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy">
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanfernandez-eng&show_icons=true&theme=synthwave" alt="Bryan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanfernandez-eng&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanfernandez-eng&show_icons=true&theme=synthwave&border_radius=10&hide_border=true&bg_color=0D1117" alt="Bryan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanfernandez-eng&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanfernandez-eng&theme=midnight-purple" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanfernandez-eng&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
+</div>
+
+---
+
+## <div align="center">📌 Pinned Repositories</div>
+
+<div align="center">
+  <a href="https://github.com/bryanfernandez-eng/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bryanfernandez-eng&repo=project1&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/bryanfernandez-eng/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bryanfernandez-eng&repo=project2&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+---
+
+## <div align="center">🕒 Weekly Development Breakdown</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bryanfernandez&theme=radical&hide_border=true&bg_color=0D1117" width="70%" alt="Wakatime Stats">
 </div>
 
 ---
@@ -86,6 +136,12 @@
   <a href="mailto:bryan.fernandez@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://dev.to/bryanfernandez">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
+  </a>
+  <a href="https://bryanfernandez.medium.com">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </div>
 
 <div align="center">
@@ -95,7 +151,15 @@
 ---
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</div>
+
+<div align="center">
   
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%">
 </div>

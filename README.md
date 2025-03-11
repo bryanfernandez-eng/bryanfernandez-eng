@@ -34,7 +34,7 @@
 ## <div align="center">🚀 Tech Stack</div>
 
 
-<div align="center" marginBottom="10px">
+<div align="center" marginBottom="200px">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 

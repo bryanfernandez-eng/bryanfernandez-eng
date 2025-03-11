@@ -36,17 +36,12 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
-</div>
+
 
 ---
 
 ## <div align="center">🛠️ Tools & DevOps</div>
 
-<div align="center">
-  <img src="https://github.com/bryanfernandez-eng/bryanfernandez-eng/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="450" height="50">
-</div>
 
 <div align="center">
 

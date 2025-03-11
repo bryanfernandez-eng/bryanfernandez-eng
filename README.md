@@ -33,7 +33,7 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 
 ## 🛠️ Tools & DevOps
 <div align="left">
-  <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="450" height="50">
+  <img src="https://github.com/bryanfernandez-eng/bryanfernandez-eng/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="450" height="50">
 </div>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,5 +43,5 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 
 ## 📈 GitHub Stats
 
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeU029&show_icons=true&theme=synthwave)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeU029&layout=compact&theme=radical)
+![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryanfernandez-eng&show_icons=true&theme=synthwave)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanfernandez-eng&layout=compact&theme=radical)

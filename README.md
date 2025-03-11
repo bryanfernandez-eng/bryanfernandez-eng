@@ -103,28 +103,43 @@
 
 ---
 
----
-
 ## <div align="center">🌐 Connect With Me</div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bryanafernandez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:b305ryan123@gmai.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-   <img src="https://komarev.com/ghpvc/?username=bryanfernandez-eng&style=flat-square&color=blueviolet" alt="Profile views">
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/bryanafernandez" target="_blank" style="display: block; width: 100%;">
+        <div style="background-color: #0077B5; color: white; padding: 20px 10px; font-size: 24px; font-weight: bold;">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="30px" height="30px" style="filter: invert(100%);">
+          <span style="margin-left: 8px;">LINKEDIN</span>
+        </div>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:b305ryan123@gmail.com" target="_blank" style="display: block; width: 100%;">
+        <div style="background-color: #EA4335; color: white; padding: 20px 10px; font-size: 24px; font-weight: bold;">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" width="30px" height="30px" style="filter: invert(100%);">
+          <span style="margin-left: 8px;">EMAIL</span>
+        </div>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <div style="background-color: #2E3035; color: white; padding: 10px; font-size: 20px; display: flex; align-items: center; justify-content: center;">
+        <div style="text-align: center;">
+          <div style="font-size: 24px; font-weight: bold;">Profile views</div>
+          <div style="font-size: 32px; background-color: #8A2BE2; color: white; padding: 5px 10px; margin-top: 5px;">
+            <img src="https://komarev.com/ghpvc/?username=bryanfernandez-eng&style=flat-square&color=blueviolet" alt="Profile views">
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</div>
-
-<div align="center">
-  
 </div>
 
 <div align="center">

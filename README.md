@@ -33,11 +33,11 @@
 
 ## <div align="center">🚀 Tech Stack</div>
 
-
-<div align="center" marginBottom="200px">
+<div align="center" style="margin-bottom: 40px;">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
+<br><br>
 
 <div align="center">
 
@@ -64,7 +64,11 @@
 
 ## <div align="center">🛠️ Tools & DevOps</div>
 
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7ii/giphy.gif" alt="DevOps" width="300">
+</div>
 
+<br>
 
 <div align="center">
 
@@ -99,6 +103,27 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanfernandez-eng&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
+</div>
+
+---
+
+## <div align="center">📌 Pinned Repositories</div>
+
+<div align="center">
+  <a href="https://github.com/bryanfernandez-eng/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bryanfernandez-eng&repo=project1&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/bryanfernandez-eng/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bryanfernandez-eng&repo=project2&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+---
+
+## <div align="center">🕒 Weekly Development Breakdown</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bryanfernandez&theme=radical&hide_border=true&bg_color=0D1117" width="70%" alt="Wakatime Stats">
 </div>
 
 ---

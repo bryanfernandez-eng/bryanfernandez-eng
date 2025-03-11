@@ -18,9 +18,6 @@
 
 ## <div align="center">🚀 Tech Stack</div>
 
-<div align="center">
-  <img src="https://github.com/GeorgeU029/GeorgeU029/blob/main/img/felixthecat.gif?raw=true" alt="cat" width="900" height="50">
-</div>
 
 <div align="center">
 

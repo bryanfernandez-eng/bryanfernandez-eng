@@ -37,7 +37,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -63,10 +63,6 @@
 ---
 
 ## <div align="center">🛠️ Tools & DevOps</div>
-
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7ii/giphy.gif" alt="DevOps" width="300">
-</div>
 
 <br>
 
@@ -118,10 +114,7 @@
   <a href="mailto:b305ryan123@gmai.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bryanfernandez-eng&style=flat-square&color=blueviolet" alt="Profile views">
+   <img src="https://komarev.com/ghpvc/?username=bryanfernandez-eng&style=flat-square&color=blueviolet" alt="Profile views">
 </div>
 
 ---

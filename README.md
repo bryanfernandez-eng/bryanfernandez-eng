@@ -108,7 +108,7 @@
 ## <div align="center">🌐 Connect With Me</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bryan-fernandez">
+  <a href="https://www.linkedin.com/in/bryanafernandez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:b305ryan123@gmai.com">

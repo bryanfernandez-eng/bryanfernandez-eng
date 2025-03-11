@@ -43,5 +43,5 @@ Aspiring Software Engineer | Passionate about lots of things! Just coding for fu
 
 ## 📈 GitHub Stats
 
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryanfernandez-eng&show_icons=true&theme=synthwave)  
+![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryanfernandez-eng&show_icons=true&theme=synthwave)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanfernandez-eng&layout=compact&theme=radical)

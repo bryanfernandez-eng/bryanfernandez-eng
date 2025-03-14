@@ -1,8 +1,7 @@
-# <div align="center">👋 Hey, I'm Bryan A. Fernandez!</div>
 
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bryan%20Fernandez&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20I'm%20Bryan%20Fernandez&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white)
 
 </div>
 
@@ -23,11 +22,6 @@
   <p>🔭 Working on innovative solutions to real-world problems</p>
 </div>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/bryanfernandez">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</div>
 
 ---
 

@@ -27,9 +27,6 @@
 
 ## <div align="center">🚀 Tech Stack</div>
 
-<div align="center" style="margin-bottom: 40px;">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
 
 <br>
 
@@ -70,42 +67,23 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryanfernandez-eng&theme=synthwave-84&hide_border=true" width="100%">
-</div>
 
 ---
 
 ## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bryanfernandez-eng&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy">
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanfernandez-eng&show_icons=true&theme=midnight-purple&border_radius=10&hide_border=true&bg_color=0D1117" alt="Bryan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanfernandez-eng&layout=compact&theme=midnight-purple&border_radius=10&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanfernandez-eng&show_icons=true&theme=synthwave&border_radius=10&hide_border=true&bg_color=0D1117" alt="Bryan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanfernandez-eng&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bryanfernandez-eng"/></a>
+</p><div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryanfernandez-eng&theme=react-dark&hide_border=true" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanfernandez-eng&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
-</div>
-
----
-
----
-
-## <div align="center">🌐 Connect With Me</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bryanafernandez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:b305ryan123@gmai.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-   <img src="https://komarev.com/ghpvc/?username=bryanfernandez-eng&style=flat-square&color=blueviolet" alt="Profile views">
-</div>
 
 ---
 

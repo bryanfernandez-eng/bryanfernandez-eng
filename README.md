@@ -77,11 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanfernandez-eng&layout=compact&theme=midnight-purple&border_radius=10&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
-<p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=bryanfernandez-eng&t=123456789"/>
-    </a>
-</p>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryanfernandez-eng&theme=react-dark&hide_border=true" width="100%">
 </div>

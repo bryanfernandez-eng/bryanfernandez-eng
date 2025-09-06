@@ -1,7 +1,7 @@
 <div align="center">
 
 # Bryan Fernandez
-### Full-Stack Developer & AI/ML Engineer
+#### Full-Stack Developer & AI/ML Engineer
 
 
 
@@ -48,8 +48,10 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Professional_Portfolio-Visit_Website-FF5722?style=for-the-badge&logoColor=white)](https://bryan-fernandez.netlify.app/)
+<br><br>
 [![Email](https://img.shields.io/badge/📧_Business_Contact-Send_Email-D14836?style=for-the-badge&logoColor=white)](mailto:b305ryan123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Professional_Network-Connect_on_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+<br><br>
+[![LinkedIn](https://img.shields.io/badge/💼_Professional_Network-Connect_on_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/bryanafernandez)
 
 </div>
 
@@ -58,7 +60,8 @@
 ## 💭 Developer Insights
 
 <div align="center">
-
+<br>
+  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
 </div>

@@ -68,17 +68,6 @@
 
 ---
 
-<div align="center">
-
-### 🌟 "Excellence is not a skill, it's an attitude" 🌟
-
-**Thank you for visiting my profile!**  
-*If you find my work valuable, consider starring ⭐ some repositories*
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
 *Last updated: Sept 2025 | Built with ❤️ and lots of ☕*
 
 </div>
